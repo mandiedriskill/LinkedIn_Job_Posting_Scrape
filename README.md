@@ -1,0 +1,2 @@
+# LinkedIn_Job_Posting_Scrape
+Data_Analysis_LinkedIn_Job_Postings 
