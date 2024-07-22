@@ -31,7 +31,7 @@ Direction for creating and running container:
 3. On the command line navigate to directory
 4. Run command: docker-compose up --build
 5. In the output there will be a URL with an IP address, example: http://0.0.0.0:8888/lab?token=################################################
-6. This will launch jupyter notebook
+6. Open this URL in a webbrwser, it willlaunch jupyter notebook.
 7. Before you run the notebook you will need to add your IP address. To get your IP address, run on the command line: Docker inspect <containerID> | grep "IPAddress" | egrep -o '[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}'. You can get your postgres docker container ID by running on the command line: docker ps -a | grep "postgres:latest" | awk '{ print $1 }'.
 8. In the third block section replace: IP_Address = '<YOUR IP ADDRESS>' with your actual IP address. Example: IP_Address = '127.0.0.0'
 9. Run each code block consecultively in order. 
