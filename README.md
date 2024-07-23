@@ -23,7 +23,7 @@ Rquirements for running this container:
 1. Docker program 
 2. Dockerfile - included
 3. docker-compose.yml - included
-4. Data_analysis_scraping_linkedin_job_posting-docker.ipynb
+4. Data_analysis_scraping_linkedin_job_posting-docker.ipynb - included
 
 Direction for creating and running container:
 1. Create new directory
