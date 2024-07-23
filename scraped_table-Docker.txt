@@ -1,0 +1,200 @@
+Posting ID	Title	Desires Bachelor's	Desires Masters's	Years of Experience	\SQL Skills	Excel Skills	Power BI Skills	Tableau Skills	Python Skills	R Skills
+3962174045	OR - Analyst- Revenue Integrity, Days+Remote Work(8-Hours Shifts),**Previous Experience Required** -  Coos Bay	No	Yes	3	No	Yes	No	No	No	No
+3970424858	Planning Analyst	Yes	No	two	No	Yes	No	No	Yes	No
+3973061907	Department Head of Data Science	No	No	three	No	Yes	No	No	No	No
+3975495942	Wire Transfer Fraud Analyst and Investigation	Yes	No	0	No	Yes	No	No	No	No
+3972651403	Data Analyst Portland	Yes	Yes	0	Yes	Yes	No	No	Yes	No
+3975526227	Satistician (Data Scientist)	No	No	1	Yes	No	No	No	Yes	No
+3978564874	Management &amp; Program Analyst (Project Manager)	No	No	1	No	No	No	No	No	No
+3979102448	Data BI Analyst	Yes	No	1	Yes	Yes	No	Yes	No	No
+3965839321	Business Analyst	No	No	0	No	No	No	No	No	No
+3975521699	Satistician (Data Scientist)	No	No	1	Yes	No	No	No	Yes	No
+3976377096	Senior Data Scientist	Yes	Yes	1	No	Yes	No	No	No	No
+3910643713	Principal Data Scientist	Yes	Yes	5	No	Yes	No	No	No	No
+3960552909	Data Analyst, Institutional Data and Analytics	No	No	3	Yes	Yes	No	Yes	Yes	No
+3960867360	Management and Program Analyst (Direct File Analyst) (12-month Roster)	No	No	three	No	No	No	No	No	No
+3942847791	Lead Business Analyst	Yes	Yes	7	Yes	No	Yes	Yes	No	No
+3972635785	Data Entry Associate (Part-Time) - National Office (Typist) - Remote | WFH	Yes	No	one	No	Yes	No	No	No	No
+3978118033	Data Analyst, Software Sales and Service	Yes	No	5	Yes	Yes	Yes	Yes	Yes	No
+3974482249	Data Entry Clerk *1.0 Day Shift*	No	No	00	No	No	No	No	No	No
+3971872095	Valuation Analyst	Yes	No	1	No	No	No	No	No	No
+3960160566	Research Coverage Analyst *Remote. Most states eligible*	Yes	No	4	No	No	No	No	No	No
+3928060656	BioAnalytics Analyst	Yes	Yes	2	No	No	No	No	Yes	No
+3980838368	GIS Analyst	No	No	0	Yes	No	Yes	Yes	Yes	Yes
+3960896751	Student Data Collector - Part Time	No	No	0	No	No	No	No	No	No
+3977288720	Financial Analyst	Yes	No	two	No	Yes	No	No	No	No
+3948547372	Information Systems Analyst (Onsite)	Yes	Yes	2	No	Yes	No	No	No	No
+3965636687	Senior Financial Analyst, Revenue	No	No	2	No	Yes	No	No	No	No
+3980030583	Business Systems Analyst	No	No	1	Yes	Yes	No	No	No	No
+3980829284	Analyst, Partnerships and Programs	No	Yes	3	Yes	Yes	No	Yes	Yes	No
+3955848116	Business Systems Analyst	Yes	No	0	Yes	Yes	Yes	No	No	No
+3980507598	Senior Data Analyst, Square Compliance	No	No	7	Yes	Yes	No	Yes	Yes	Yes
+3975527019	Satistician (Data Scientist)	No	No	1	Yes	No	No	No	Yes	No
+3976452304	Associate Systems Analyst, Ann Sacks	Yes	No	3	No	Yes	No	No	No	No
+3971727406	Order Management Analyst	No	No	3	No	Yes	No	No	No	No
+3979739126	Laboratory Analyst (Eugene, OR)	No	No	0	No	No	No	No	No	No
+3970475088	Supply Chain Analyst	No	No	0	No	No	No	No	No	No
+3971712109	Order Management Analyst - 80822	Yes	No	3	No	Yes	No	No	No	No
+3967785919	Credit Risk Analyst	No	No	1	No	Yes	No	No	No	No
+3959282614	UI Path Business Analyst - Remote / Telecommute	No	No	0	No	No	No	No	No	No
+3959855847	Revenue Integrity - Analyst	No	Yes	3	No	Yes	No	No	No	No
+3980497406	Data Entry Clerk Intern	No	No	0	No	Yes	No	No	No	No
+3975520984	Program Analyst	No	No	one	No	No	No	No	No	No
+3950762880	Sr. Financial Analyst - Enterprise	No	No	5	No	Yes	No	No	No	No
+3969991777	Financial Planning Analyst **	Yes	No	5	No	Yes	No	No	No	No
+3979647645	Management &amp; Program Analyst (Project Manager)	No	No	1	No	No	No	No	No	No
+3980843103	Brand Analyst, Brand Advertising	Yes	No	8	No	Yes	No	No	No	No
+3968200234	Senior Operations Analyst	No	Yes	5	No	Yes	No	No	No	No
+3975522903	Program Analyst	No	No	one	No	No	No	No	No	No
+3915644401	Lead, Pricing Strategy Analyst	No	No	5	No	Yes	No	No	No	No
+3978771017	Business Data Engineer	Yes	No	0	Yes	Yes	Yes	Yes	Yes	No
+3972594253	Hospital Business Support Analyst	No	No	0	No	Yes	No	No	No	No
+3980303370	Lead Data Engineer	No	No	5	Yes	No	No	No	Yes	No
+3980599889	Materials Costing Analyst II	Yes	Yes	2	Yes	Yes	No	Yes	Yes	No
+3976647757	Data Scientist (Senior Customer Experience Data Strategist and Developer) 12-month Roster Amended	Yes	No	one	No	No	No	No	No	No
+3972602222	Fishery Management Analyst/Fishery Biologist	No	Yes	0	No	Yes	No	No	No	No
+3979712762	Research Data Analyst- CIBMTR Data Manager	Yes	No	3	No	Yes	No	No	No	No
+3971683799	Costing Analyst - HOKA Footwear	Yes	No	2	No	Yes	No	No	No	No
+3965997421	Data Engineer 3	Yes	Yes	5	No	No	No	No	No	No
+3981126438	GIS Analyst	No	No	0	Yes	No	Yes	Yes	Yes	Yes
+3974877275	Business Analyst II	No	No	5	No	No	No	No	No	No
+3973995358	Project Billing Analyst - Portland, OR	Yes	No	three	No	Yes	No	No	No	No
+3975525203	Satistician (Data Scientist)	No	No	1	Yes	No	No	No	Yes	No
+3976040039	Identity Data Analyst, (Part Time)	Yes	No	0	No	Yes	No	No	No	No
+3961801411	Pattern Analyst - LNSSI	No	No	0	No	Yes	No	No	Yes	No
+3976344910	Information Technology Business Analyst	No	No	2	No	No	No	No	No	No
+3829510656	Analyst, Renewable Origination - Ld/Sr	Yes	No	2	No	Yes	No	No	No	No
+3973091628	Junior Financial Analyst	Yes	No	1	No	Yes	No	No	No	No
+3916819681	Sr. Strategy Analyst	No	No	0	Yes	Yes	No	Yes	Yes	Yes
+3963333564	Business Analyst	No	No	2	No	Yes	No	No	No	No
+3980222098	Data Engineer with DBT	Yes	No	0	Yes	Yes	No	No	No	No
+3979208602	Business Systems Analyst - Node	Yes	No	0	No	No	No	No	No	No
+3980554905	Vice President of Data and Technology	Yes	Yes	12	No	Yes	No	No	No	No
+3975523602	Program Analyst	No	No	one	No	No	No	No	No	No
+3945990496	Programmer/Analyst 3	Yes	Yes	5	No	Yes	No	No	Yes	Yes
+3961933275	Marketing Data Specialist	Yes	No	3	No	Yes	No	No	No	No
+3977337111	IT Data and Analytics Manager	Yes	Yes	6	No	No	No	No	No	No
+3979383042	Operations Analyst III - CPPW	No	No	0	No	No	No	No	No	No
+3964806702	Analyst, Renewable Origination - Ld/Sr	Yes	No	2	No	Yes	No	No	No	No
+3976937842	Private Wealth Analyst	Yes	No	6	No	No	No	No	No	No
+3960127244	Infrastructure Business Systems Analyst	No	No	0	No	Yes	No	No	No	No
+3975527069	Program Analyst	No	No	one	No	No	No	No	No	No
+3979968291	BDM Sales Lead Data Analyst	No	No	2	No	Yes	No	No	No	No
+3956726619	BioAnalytics Analyst	Yes	Yes	2	No	No	No	No	Yes	No
+3979670598	Senior Quality Control Analyst	Yes	Yes	4	No	No	No	No	No	No
+3978029824	Information System Analyst 1	No	No	4	No	Yes	No	No	No	No
+3812229962	Trading Analyst (Bidding Strategy)	Yes	Yes	3	Yes	Yes	No	No	Yes	No
+3982399891	Budget Analyst	Yes	Yes	2	No	No	No	No	No	No
+3620846078	Data Scientist	No	No	2	Yes	No	No	No	Yes	No
+3975030519	Strategic Research Analyst	Yes	No	0	No	Yes	No	No	No	No
+3960897774	Student Data Collector - Part Time	No	No	0	No	No	No	No	No	No
+3965751170	Data Analyst - Insurance - REMOTE	No	No	25	Yes	Yes	Yes	No	No	No
+3971172788	Data Quality Analyst	No	No	3	Yes	Yes	No	Yes	Yes	Yes
+3976656500	Data Scientist (Customer Experience Data Strategist and Developer)(6-Month Roster)	Yes	No	three	No	No	No	No	No	No
+3972382404	Fishery Management Analyst/Fishery Biologist	No	Yes	0	No	Yes	No	No	No	No
+3866105418	Slalom Flex (Project Based) Research Analyst	No	No	five	No	Yes	No	No	No	No
+3982319400	Quality Assurance Analyst	Yes	Yes	4	No	No	No	No	No	No
+3976650100	Data Scientist (Senior Customer Experience Data Strategist and Developer) 12-month Roster Amended	Yes	No	one	No	No	No	No	No	No
+3976356449	Financial Business Analyst	No	No	2	No	No	No	No	No	No
+3966168262	Financial Analyst	Yes	Yes	0	No	No	No	No	No	No
+3972807773	Order Management Analyst	Yes	No	3	No	Yes	No	No	No	No
+3973345653	Human Resources Information System Analyst	Yes	No	3	No	Yes	No	No	No	No
+3977060461	Senior Data Scientist	Yes	Yes	1	No	Yes	No	No	No	No
+3979729175	Business Analyst	Yes	No	9	No	No	No	No	No	No
+3961904773	Senior Data Scientist	No	No	4	Yes	No	No	Yes	Yes	No
+3966493790	Financial Analyst	No	No	0	No	Yes	No	No	No	No
+3941235559	Data Scientist	Yes	Yes	5	Yes	No	No	No	Yes	No
+3962411074	Data Analytics &amp; Visualization Analyst -(Berkeley Heights, NJ)	No	No	0	Yes	No	Yes	Yes	No	No
+3964879636	Sustainability Data Analyst - ONSITE	Yes	No	1	No	Yes	No	Yes	No	No
+3948435989	Senior Data Analyst	No	No	5	Yes	Yes	No	Yes	Yes	No
+3965443463	Data Scientist - Trust &amp; Safety	No	No	3	Yes	Yes	No	No	Yes	No
+3976384052	Budget Analyst	No	Yes	one	No	No	No	No	No	No
+3978293694	35F Intelligence Analyst	No	No	0	No	No	No	No	No	No
+3973746671	Data Entry Associate (Part-Time) - National Office (Typist) - Remote | WFH	Yes	No	one	No	Yes	No	No	No	No
+3975523572	Budget Analyst	Yes	Yes	three	No	No	No	No	No	No
+3968204562	Financial Analyst	No	No	0	No	No	No	No	No	No
+3961903007	Data Engineer	Yes	Yes	10	Yes	Yes	Yes	Yes	Yes	No
+3976654669	Data Scientist (Customer Experience Data Strategist and Developer)(6-Month Roster)	Yes	No	three	No	No	No	No	No	No
+3962065897	Data Specialist	No	No	0	No	No	No	No	No	No
+3978405002	Cybersecurity Analyst	Yes	No	3	No	No	No	No	Yes	No
+3978006538	SAS Fraud Risk Analyst	Yes	No	6	Yes	Yes	No	No	No	No
+3971289155	Business Systems Analyst	No	Yes	10	No	Yes	No	No	No	No
+3921723357	Infrastructure Data Analyst	Yes	No	0	Yes	Yes	Yes	No	No	No
+3961130316	Data Analytics Manager	Yes	No	4	Yes	Yes	Yes	Yes	Yes	No
+3975244420	Senior Business Analyst	No	No	0	Yes	No	No	Yes	No	No
+3958008148	Data Center Technician	No	No	0	No	Yes	No	No	Yes	No
+3979332540	Genomic Data Processor	No	No	0	No	No	No	No	No	No
+3976916119	Order Management Analyst	Yes	No	3	No	Yes	No	No	No	No
+3970471270	Data Specialist	No	No	0	No	No	No	No	No	No
+3973220648	Financial Analyst II	Yes	No	4	No	Yes	No	No	No	No
+3978488669	Data Manager	No	No	0	Yes	Yes	No	No	Yes	No
+3960419423	Earth Observation Data Scientist	No	No	0	No	No	No	No	Yes	No
+3980839272	GIS Analyst	No	No	0	Yes	No	Yes	Yes	Yes	Yes
+3982313401	Geographic Information Systems Analyst	Yes	No	3	No	Yes	No	No	Yes	No
+3960999155	Program Analyst (27727)	No	No	0	Yes	Yes	Yes	No	No	No
+3954484868	Geospatial Data Scientist	Yes	Yes	5	Yes	No	No	No	Yes	No
+3980020987	Sales Operations Analyst	Yes	No	four	No	Yes	Yes	No	No	No
+3976644977	Data Scientist (Senior Customer Experience Data Strategist and Developer) 12-month Roster Amended	Yes	No	one	No	No	No	No	No	No
+3950596411	Energy Analyst	Yes	No	two	No	No	No	No	No	No
+3949901086	Analyst (Web Analytics &amp; Reporting) III	No	No	0	Yes	Yes	Yes	Yes	Yes	No
+3962197380	Healthcare Data Analyst *Remote*	Yes	No	5	Yes	No	Yes	Yes	No	No
+3973733819	Project Analyst	No	No	0	No	No	No	No	No	No
+3974152705	Senior Business Analyst I	No	No	5	No	No	No	No	No	No
+3980494633	Financial Analyst (Remote)	Yes	No	4	No	Yes	No	No	No	No
+3976024775	Financial Analyst	Yes	No	0	No	Yes	No	No	No	No
+3969541116	Graduate Intern / Financial Analyst	No	No	0	No	No	No	No	No	No
+3967972023	Cloud Cost Analyst	Yes	No	3	No	Yes	No	No	No	No
+3977995466	Senior Data Scientist	Yes	Yes	1	No	Yes	No	No	No	No
+3958057141	Business Systems Analyst - Remote	Yes	No	4	No	No	No	No	No	No
+3974895879	HRIS Analyst	Yes	No	2	No	Yes	No	No	No	No
+3978025939	Business Operations Analyst 5	Yes	Yes	8	Yes	Yes	Yes	No	Yes	No
+3958825337	Infrastructure Business Systems Analyst	No	No	0	No	Yes	No	No	No	No
+3965024730	Business Analyst	No	No	0	No	No	No	No	No	No
+3945040816	Software Engineer, Data	No	No	0	Yes	Yes	No	No	No	Yes
+3971193590	Business Systems Analyst II	No	No	3	No	No	No	No	No	No
+3960895922	Student Data Collector - Part Time	No	No	0	No	No	No	No	No	No
+3974895552	HRIS Analyst	Yes	No	2	No	Yes	No	No	No	No
+3976462976	Senior Business Operations Analyst	Yes	Yes	8	Yes	Yes	Yes	No	Yes	No
+3974625625	Market Intelligence Analyst	Yes	No	3	No	Yes	No	No	No	No
+3980065759	Portfolio Analyst	No	No	5	No	No	No	No	No	No
+3966769826	Decision Support/Financial Analyst	Yes	Yes	4	Yes	Yes	No	No	No	No
+3962717799	Business Analyst I-III	No	No	20	No	No	No	No	No	No
+3950599329	Energy Analyst	Yes	No	two	No	No	No	No	No	No
+3970523586	Senior Finance Analyst, Global Marketplace Supply Chain	Yes	No	3	Yes	Yes	No	No	No	No
+3981943909	Data Entry Clerk Work From Home - Part-Time Survey Participants	No	No	0	No	No	No	No	No	No
+3961820947	Analyst, Renewable Origination - Ld/Sr	Yes	No	2	No	Yes	No	No	No	No
+3976877970	AWS Big Data Engineer	No	No	4	Yes	No	No	Yes	Yes	No
+3964665595	Data Scientist (IV) – Generative AI	No	Yes	5	No	No	No	No	Yes	No
+3973492656	Department Head of Data Science	No	No	three	No	Yes	No	No	No	No
+3962196461	Healthcare Data Analyst *Remote*	Yes	No	5	Yes	No	Yes	Yes	No	No
+3982506631	Workday Business Analyst	No	No	4	No	Yes	No	No	No	No
+3962215303	Manager, Data Science (Core)	No	No	2	Yes	Yes	No	No	Yes	Yes
+3960895903	Student Data Collector - Part Time	No	No	0	No	No	No	No	No	No
+3961908191	Insider Threat Analyst	No	No	0	No	Yes	No	No	No	No
+3976658023	Data Scientist (Customer Experience Data Strategist and Developer)(6-Month Roster)	Yes	No	three	No	No	No	No	No	No
+3971711623	Analyst	Yes	No	0	No	No	No	No	No	No
+3962957408	Data Scientist	Yes	No	3	Yes	Yes	No	No	No	No
+3976653824	Data Scientist (Customer Experience Data Strategist and Developer)(6-Month Roster)	Yes	No	three	No	No	No	No	No	No
+3978775770	Business Data Engineer	Yes	No	0	Yes	Yes	Yes	Yes	Yes	No
+3978635304	HR Business Analyst	Yes	No	4	No	Yes	Yes	No	No	No
+3969514762	Data Engineer	No	Yes	0	Yes	Yes	No	No	Yes	No
+3965704835	Financial Analyst	No	No	3	No	Yes	Yes	No	No	No
+3914610342	Quantitative Analyst	Yes	No	0	No	No	No	No	Yes	No
+3975522892	Budget Analyst	Yes	Yes	three	No	No	No	No	No	No
+3961305766	Healthcare Analyst	Yes	Yes	5	No	Yes	No	Yes	Yes	Yes
+3962120397	FP&amp;A Analyst	Yes	No	2	No	Yes	No	No	No	No
+3958128028	Senior Analyst, Customer Experience &amp; Support	No	No	0	Yes	No	No	Yes	Yes	Yes
+3978702739	FP&amp;A Analyst (Financial Modeling)	Yes	Yes	2	No	No	No	No	No	No
+3976644907	Data Scientist (Senior Customer Experience Data Strategist and Developer) 12-month Roster Amended	Yes	No	one	No	No	No	No	No	No
+3978177045	Management Analyst - Safety	Yes	No	four	No	Yes	Yes	No	No	No
+3947001714	Data Scientist	No	No	3	Yes	Yes	No	No	Yes	No
+3976651935	Data Scientist (Customer Experience Data Strategist and Developer)(6-Month Roster)	Yes	No	three	No	No	No	No	No	No
+3980269486	Vice President of Technology and Data	Yes	Yes	12	No	Yes	No	No	No	No
+3975523640	Program Analyst	No	No	one	No	No	No	No	No	No
+3961469036	Sr. Analyst, Geolocation Investigations (Remote)	Yes	No	4	No	Yes	No	No	No	No
+3977345426	Business Analyst and Quality Assurance (Remote)	No	No	3	No	No	No	No	No	No
+3968870286	Actuarial Analyst	Yes	No	5	Yes	Yes	No	No	No	No
+3976644897	Data Scientist (Senior Customer Experience Data Strategist and Developer) 12-month Roster Amended	Yes	No	one	No	No	No	No	No	No
+3978059643	Data Entry Clerk	No	No	00	No	No	No	No	No	No
+3976623023	Data Entry Clerk	No	No	0	No	Yes	No	No	No	No
+3964600997	Analyst	Yes	Yes	1	No	No	No	No	No	No
